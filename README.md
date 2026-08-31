@@ -1,4 +1,4 @@
-# Previsão e Análise de Séries Temporais de Focos em Queimadas no Brasil
+# GRUPO 10
 
 ## Integrantes do Grupo
 
