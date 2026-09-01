@@ -1,3 +1,12 @@
+#@title **GRUPO 10**
+
+#@markdown Integrantes do Grupo, nome completo em ordem alfabética (*informe: \<nome\>, \<matrícula\>*)
+Aluno1 = 'KARLA MARIA RAMOS DA SILVA, 10441405' #@param {type:"string"}
+Aluno2 = 'LUANA ISABELLA XAVIER PORTO, 10443026' #@param {type:"string"}
+Aluno3 = 'GUSTAVO AZEVEDO GOMYDE, 10424543' #@param {type:"string"}
+Aluno4 = 'RAFAEL HESSEL SICHETTI, 10375395' #@param {type:"string"}
+
+
 # GRUPO 10
 
 ## Integrantes do Grupo
